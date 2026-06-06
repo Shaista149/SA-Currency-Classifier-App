@@ -5,6 +5,13 @@ An Android app that identifies South African banknotes and coins using on-device
 The companion ML training pipeline lives here: [SA-Currency-Classifier-Model](https://github.com/Shaista149/SA-Currency-Classifier-Model)
 
 ---
+## Screenshots
+
+| Main | Camera | Crop | Result |
+|---|---|---|---|
+| ![Main](screenshots/main.jpeg) | ![Camera](screenshots/camera.jpeg) | ![Crop](screenshots/crop.jpeg) | ![Result](screenshots/result.jpeg) |
+
+---
 
 ## Features
 
